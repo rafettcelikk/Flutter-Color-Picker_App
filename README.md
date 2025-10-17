@@ -20,7 +20,7 @@ Kullanıcı seçilen rengi anında görebilir, rastgele renk seçebilir, renk ko
 1. Repoyu klonla:
 
    ```bash
-   git clone https://github.com/kullaniciAdi/flutter_color_picker_app.git
+   git clone https://github.com/rafettcelikk/flutter_color_picker_app.git
 
    ```
 
