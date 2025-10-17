@@ -25,10 +25,22 @@ Kullanıcı seçilen rengi anında görebilir, rastgele renk seçebilir, renk ko
    ```
 
 2. Proje klsörüne gir:
+
+   ```bash
    cd flutter_color_picker_app
 
+   ```
+
 3. Paketleri yükle:
+
+   ```bash
    flutter pub get
 
+   ```
+
 4. Uygulamayı çalıştır:
+
+   ```bash
    flutter run
+
+   ```
