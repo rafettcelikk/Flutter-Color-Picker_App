@@ -1,18 +1,34 @@
-# flutter_color_picker_app
+# 🎨 Flutter Color Picker App
 
-A new Flutter project.
+Flutter ile geliştirilmiş basit ama işlevsel bir renk seçici uygulaması.  
+Kullanıcı seçilen rengi anında görebilir, rastgele renk seçebilir, renk kodunu görüntüleyebilir ve kutunun şeklini kare/daire olarak değiştirebilir.
 
-## Getting Started
+## 🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+- Dropdown menüden renk seçme
+- Rastgele renk atama butonu
+- Seçilen rengin adını ve kodunu gösterme
+- Kare ↔ Daire şekil değiştirme
+- Toast mesajları ile kullanıcıya bilgi verme (`fluttertoast` paketi kullanıldı)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Ekran Görüntüsü
 
 ![Uygulama Ekran Görüntüsü](assets/screenshot.png)
+
+## ⚙️ Kurulum
+
+1. Repoyu klonla:
+
+   ```bash
+   git clone https://github.com/kullaniciAdi/flutter_color_picker_app.git
+
+   ```
+
+2. Proje klsörüne gir:
+   cd flutter_color_picker_app
+
+3. Paketleri yükle:
+   flutter pub get
+
+4. Uygulamayı çalıştır:
+   flutter run
